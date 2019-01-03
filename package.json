@@ -1,0 +1,29 @@
+{
+  "name": "react-native-firebase-analytic",
+  "version": "0.0.2",
+  "description": "React Native component for Firebase Analytics for IOS and Android",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamisathya/react-native-firebase-analytics-bridge.git"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.47.0"
+  },
+  "keywords": [
+    "React-Native",
+    "ios",
+    "android",
+    "firebase",
+    "analytics"
+  ],
+  "author": "Sathya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamisathya/react-native-firebase-analytics-bridge/issues"
+  },
+  "main": "index.js",
+  "homepage": "https://github.com/evollu/iamisathya/react-native-firebase-analytics-bridge",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
